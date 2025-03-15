@@ -41,7 +41,7 @@ The Bank Management System is a C++ console application that allows users to per
 ```md
 ## Sample Outputs
 ![Screenshot1](https://github.com/paakhipriya10/Bank-Management-System/blob/main/Screenshots/OUTPUT1.png?raw=true)
-![Screenshot2](https://github.com/user-attachments/assets/5fdfbc72-bd44-4560-a743-7db7e26429b3)
-![Screenshot3](https://github.com/user-attachments/assets/fb17cfb2-549b-479f-af1f-01c63a92884f)
-![Screenshot4](https://github.com/user-attachments/assets/3d233788-0fec-4ad9-9063-2650eafa7c85)
+![Screenshot2](https://github.com/paakhipriya10/Bank-Management-System/blob/main/Screenshots/OUTPUT2.png?raw=true)
+![Screenshot3]()
+![Screenshot4]()
 
