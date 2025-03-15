@@ -36,8 +36,7 @@ The Bank Management System is a C++ console application that allows users to per
 
 ## Output Screenshots
 
-After running the program, take screenshots of the outputs and store them in the **screenshots** folder in your project directory.  
-Then, add the following markdown code to display them in the README file:
+
 
 ```md
 ## Sample Outputs
