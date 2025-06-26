@@ -8,7 +8,6 @@ The Bank Management System is a C++ console application that allows users to per
 
 - Create a new bank account  
 - Display all accounts  
-- Search for a specific account  
 - Deposit money into an account  
 - Withdraw money from an account  
 - Check account balance  
@@ -21,7 +20,6 @@ The Bank Management System is a C++ console application that allows users to per
 
 ## Time and Space Complexity Analysis
 
-- Searching for an account takes O(N)  
 - Depositing or withdrawing money takes O(1)  
 - Adding an account takes O(1)  
 - Displaying all accounts takes O(N)  
