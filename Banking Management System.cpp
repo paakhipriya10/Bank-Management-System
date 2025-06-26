@@ -11,14 +11,13 @@ using namespace std;
 FEATURES:
 1. Create a new account with an initial deposit.
 2. Display all accounts with holder names and balances.
-3. Search for an account by account number.
-4. Deposit money into an account.
-5. Withdraw money from an account (if sufficient balance is available).
-6. Check the balance of an account.
-7. Delete an account from the system.
-8. Menu continuously displays until the user chooses to exit.
-9. Prevents crashing on invalid inputs using input validation.
-10. Ensures smooth user interaction without unexpected program exits.
+3. Deposit money into an account.
+4. Withdraw money from an account (if sufficient balance is available).
+5. Check the balance of an account.
+6. Delete an account from the system.
+7. Menu continuously displays until the user chooses to exit.
+8. Prevents crashing on invalid inputs using input validation.
+9. Ensures smooth user interaction without unexpected program exits.
 ---------------------------------------------------
 */
 
